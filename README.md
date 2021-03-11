@@ -1,2 +1,2 @@
 # .github
-mete repository
+meta repository
