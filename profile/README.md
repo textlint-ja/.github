@@ -6,5 +6,6 @@
 - [Issue](https://github.com/textlint-ja/textlint-ja/issues/new)を作成
 - [Gitter](https://gitter.im/textlint-ja/textlint-ja)に書き込む
 
-詳細は[textlint-ja/textlint-jaのREADME](https://github.com/textlint-ja/textlint-ja)を参照してください。
 または、`@textlint-ja/collaborators` へMentionお知らせください。
+
+詳細は[textlint-ja/textlint-jaのREADME](https://github.com/textlint-ja/textlint-ja)を参照してください。
