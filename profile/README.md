@@ -9,3 +9,6 @@
 または、`@textlint-ja/collaborators` へMentionお知らせください。
 
 詳細は[textlint-ja/textlint-jaのREADME](https://github.com/textlint-ja/textlint-ja)を参照してください。
+
+- 関連: [textlint-rule](https://github.com/textlint-rule)
+- プラグインについては [textlint plugin ownership · Discussion #1 · textlint](https://github.com/orgs/textlint/discussions/1)を参照
