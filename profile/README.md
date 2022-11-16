@@ -1,7 +1,7 @@
 ## textlintの日本語ルール
 
 [textlint](https://textlint.github.io/)の日本語に関するルールを扱うコミュニティです。
-作成したtextlintのルールを、このOrganizationに委譲したい場合は次の方法でお知らせください。
+作成したtextlintのルールを、このOrganizationへ移したい場合は次の方法でお知らせください。
 
 - [Issue](https://github.com/textlint-ja/textlint-ja/issues/new)を作成
 - [Gitter](https://gitter.im/textlint-ja/textlint-ja)に書き込む
